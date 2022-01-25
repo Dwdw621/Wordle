@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wordle
+comment1.params=input\ ans
+comment1.target=void\ check(java.lang.String,\ java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String\ toString(java.lang.String[])
+comment3.params=
+comment3.target=int\ returnLives()
+comment4.params=filename\ x
+comment4.target=void\ loadWords(java.lang.String,\ java.util.ArrayList)
+comment5.params=x\ filename
+comment5.target=boolean\ ifInList(java.lang.String,\ java.lang.String)
+numComments=6
